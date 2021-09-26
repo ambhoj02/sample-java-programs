@@ -29,3 +29,4 @@ In Threads -> Overview tab, you should see thread count is increasing steadily.
 
 Run the application with `--stop-leakage` parameter, which will use a single `ExecutorService` throughout the
 application.
+This is something we need to do when you want to do poll scm
